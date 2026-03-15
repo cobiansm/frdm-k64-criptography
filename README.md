@@ -1,6 +1,6 @@
-# PRNG en FRDM-K64 usando mbed TLS
+# PRNG on FRDM-K64 using mbed TLS
 
 ## Overview
 
-Este proyecto demuestra un **generador de números pseudoaleatorios (PRNG)** implementado en la tarjeta **FRDM-K64** utilizando la función personalizada 'my_rand()' de **mbed TLS**.  
-Está basado en el **benchmark** que mide el rendimiento de las funciones criptográficas en el embebido.
+This project demonstrates a **Pseudo-Random Number Generator (PRNG)** implemented on the FRDM-K64 development board, utilizing a custom myrand() function integrated with the mbedTLS library.
+The implementation is based on a cryptographic benchmark designed to measure the performance and efficiency of security functions within an embedded environment.
